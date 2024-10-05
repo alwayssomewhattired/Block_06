@@ -1,0 +1,56 @@
+header {
+  color: #0000ff;
+}
+
+.grains {
+  background-color: magenta;
+}
+
+.proteins {
+  background-color: palegoldenrod;
+}
+
+.dlks {
+  background-color: chocolate;
+}
+
+.cunpd {
+  background-color: darkslateblue;
+}
+
+.cmo {
+  background-color: lightseagreen;
+}
+
+.fruits {
+  background-color: lightcoral;
+}
+
+.mySection {
+  height: 124px;
+  width: 100px;
+  border: 3px solid black;
+  margin: 10px;
+}
+
+.mySection2 {
+  height: 120px;
+  width: 100px;
+  border: 3px solid black;
+  margin: 10px;
+}
+
+.mySection3 {
+  height: 115px;
+  width: 100px;
+  border: 3px solid black;
+  margin: 10px;
+}
+
+.divSections {
+  display: flex;
+}
+
+img {
+  padding: 100px;
+}
